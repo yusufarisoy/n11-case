@@ -1,0 +1,1 @@
+/Users/yusufarisoy/AndroidStudioProjects/N11case/buildSrc/build/classes/kotlin/main/Libs.class:/Users/yusufarisoy/AndroidStudioProjects/N11case/buildSrc/build/classes/kotlin/main/Versions.class

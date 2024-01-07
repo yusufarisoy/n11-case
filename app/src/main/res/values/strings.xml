@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">N11case</string>
+    <string name="listing_title">Github Api</string>
+    <string name="search_no_result">No results found.</string>
+    <string name="search_hint">Search users</string>
+    <string name="search_result_count">%1$d results found</string>
+    <string name="detail_followers_text">%1$d followers</string>
+    <string name="detail_following_text">%1$d following</string>
+    <string name="search_score">Score: %1$.1f</string>
+</resources>
